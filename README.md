@@ -47,8 +47,8 @@ to increase user engagement and loyalty.
 
 ## 📄 Deliverables
 
-- [Final Report (PDF)](/reports/TravelTide_Detailed_Report.pdf)
-- [Executive Summary Slides (PDF)](/slides/TravelTide_Segmentation_Slides.pdf)
+- [Final Report (PDF)](/TravelTide_Executive_Summary_hakim_murphy.pdf)
+- [Executive Summary Slides (PDF)](/TravelTide_Slides_hakim_murphy.pdf)
 
 ## 📌 Author
 
