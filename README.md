@@ -1,11 +1,5 @@
-# TravelTide
+# TravelTide: Customer Segmentation & Retention Strategy
 Applied PCA and KMeans clustering to segment users for TravelTide, improving retention through data-driven marketing insights.
-
----
-
-## TravelTide: Customer Segmentation & Retention Strategy
-
-👤 By Hakim Murphy
 
 ---
 
